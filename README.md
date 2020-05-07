@@ -17,7 +17,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easy Way
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+
 
 #### The Hard Way
 
