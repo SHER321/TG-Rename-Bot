@@ -5,8 +5,10 @@ This is a Telegram URL Upload Bot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
-And I Can Also Rename Telegram Files
+And I Can Also Rename Telegram Files...
 
+1. Send me any Telegram File.
+2. Reply to that message to /rename new name.extension.
 /help for more details..
 
 Support Group : @NMbotsZ
