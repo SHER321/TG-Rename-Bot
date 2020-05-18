@@ -8,7 +8,9 @@ And I Can Also Rename Telegram Files...
 
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
-  I can do still many more things check commands
+
+  I can do still many more things check commands.
+  
 /help for more details..
 
 Support Group : @NMbotsZ
