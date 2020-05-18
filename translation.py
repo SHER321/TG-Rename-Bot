@@ -9,6 +9,7 @@ And I Can Also Rename Telegram Files...
 
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
+  I can do still many more things check commands
 /help for more details..
 
 Support Group : @NMbotsZ
@@ -41,7 +42,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan Free User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hai am URL Uploader bot..
+    HELP_USER = """Hai am URL Uploader bot..With Many Things.
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
