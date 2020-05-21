@@ -53,12 +53,12 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-Join: @NMBotsZ
+Join: @NRBotsZ
 
 --------
 Send /me to know current plan details
 
-Support Group : @NMBotsZ
+Support Group : @NRBotsZ
 """
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
