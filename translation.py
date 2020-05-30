@@ -9,7 +9,12 @@ This is a Telegram Rename Bot!
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
     DOWNLOAD_START = "Give Me Some Time DUDE (〒﹏〒)"
-    UPLOAD_START = "trying to upload"
+    UPLOAD_START = "Yay, Completed Downloading(≧▽≦)
+
+
+
+
+
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
