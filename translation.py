@@ -30,7 +30,10 @@ This is a Telegram Rename Bot!
 
 
 --------
+Simple Telegram Renaming BOT Edited By This LEDEND 😎@ANKITH_M😎
 
+Please send me any Telegram file and reply /rename New Name.extn
+SEE /help For My Features
 Support Group : @InFoTelGroup
 @super_botz
 
