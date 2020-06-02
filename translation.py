@@ -14,7 +14,8 @@ And much more things like Upload YouTube link as file,convert to audio, convert 
   
 /help for more details..
 
-Support Group : @NRbotsZ
+Support Group :
+            @ALL_MOVIES_LIABRARY
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
