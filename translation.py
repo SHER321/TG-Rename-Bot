@@ -1,21 +1,11 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
-
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
-
-And I Can Also Rename Telegram Files...
-
-1. Send me any Telegram File.
-2. Reply to that message to /rename new name.extension.
-And much more things like Upload YouTube link as file,convert to audio, convert to video,rename,url upload etc.. 
-
-  I can do still many more things check commands.
+This is a Telegram File To Video Converter Bot!
   
 /help for more details..
 
 Support Group :
-            @ALL_MOVIES_LIABRARY
+            @NRBotsZ
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -45,15 +35,9 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan Free User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hai am URL Uploader bot..With Many Things.
+    HELP_USER = """Hai am File to video converter bot...
     
-1. Send url (Link|New Name with Extension).
-2. Send Custom Thumbnail (Optional).
-3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+1.send me a file and just reply to file as /converttovideo
    
 Join: @NRBotsZ
 
