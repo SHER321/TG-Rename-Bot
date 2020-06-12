@@ -3,7 +3,7 @@ class Translation(object):
 
 **/help** **to** **Know** **how** **to** **use** **me..!!**
 
-**My** **Credits** **to** **:** **@Amal_PM**
+**My** **Credits** **to** **:** **@NGYNY**
 
  **For** **More** **Better** **Use**
 
